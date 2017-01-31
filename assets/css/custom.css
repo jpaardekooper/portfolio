@@ -1,0 +1,119 @@
+.text-center{
+    text-align:center;
+}
+.navigation{
+    background-color:black;
+    padding:1px;
+}
+.navigation ul li{
+    display:inline-block;
+    padding:0 20px;
+}
+.banner{
+    width:100%;
+    height:100%;
+}
+.content{
+    width:100%;
+    height:650px;
+    margin-bottom:5%;
+    margin-top:3%;
+}
+.content-banner{
+    width:100%;
+    height:700px;
+    margin-bottom:40px;
+}
+.content-left{
+    float:left;
+    width:50%;
+}
+.content-right{
+    float:right;
+    width:50%;
+}
+/* section van about */
+#about{
+    float:right;
+    width:40%;
+    margin: 0 auto;
+}
+/* end section */
+
+/* section van skills */
+#skills{
+    width:100%;
+    margin: 0 auto;
+}
+.list{
+    float:left;
+}
+.list2{
+    margin-top:10px;
+    margin-bottom:50px;
+    margin:0 auto;
+    text-align:center;
+}
+.list-item{
+    padding:0 16px;
+    display:inline-block;
+}
+/* end section */
+
+/* section van portfolio */
+#portfolio{
+    text-align:center;
+    margin: 0 auto;
+}
+.list-item-portfolio{
+    display:inline-block;
+    width:33%;
+}
+
+/* end section */
+#contact{
+    text-align:center;
+    margin: 0 auto;
+}
+.button{
+    width:450px;
+    height:30px;
+    margin-bottom:50px;
+}
+.btn-skills{
+    width:100%;
+    height:30px;
+    margin-bottom:50px;
+}
+/* contact css */
+.input-text{
+    width: 415px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+.textarea{
+    width:412px;
+}
+.down{
+    margin-top:5%;
+}
+.down2{
+    margin-top:12%;
+}
+.form{
+    padding-left:15%;
+}
+/* footer element */
+.footer{
+    margin-top: 171px;
+    background-color: black;
+    display: inline-block;
+    width: 100%;
+    color: white;
+}
+.footer-image{
+    margin:0 auto;
+    text-align:center;
+}
