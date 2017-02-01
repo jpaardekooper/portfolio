@@ -47,11 +47,10 @@
 }
 .list{
     float:left;
+    width:100%;
 }
 .list2{
-    margin-top:10px;
-    margin-bottom:50px;
-    margin:0 auto;
+
     text-align:center;
 }
 .list-item{
@@ -107,11 +106,11 @@
 }
 /* footer element */
 .footer{
-    margin-top: 171px;
-    background-color: black;
-    display: inline-block;
-    width: 100%;
-    color: white;
+    margin-top:178px;
+    background-color:black;
+    display:inline-block;
+    width:100%;
+    color:white;
 }
 .footer-image{
     margin:0 auto;

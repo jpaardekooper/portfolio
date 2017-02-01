@@ -1,65 +1,76 @@
 @media screen and (max-width: 640px) and (min-width: 340px) {
     /* samsung s3 */
-    .button{
-        width:100%;
-        height:30px;
-        margin-bottom:20px;
+    .button {
+        width: 100%;
+        height: 30px;
+        margin-bottom: 20px;
     }
-
-    .navigation{
-        background-color:black;
+    .navigation {
+        background-color: black;
     }
-    .navigation ul li{
-        display:block;
-        color:white;
+    .navigation ul li {
+        display: block;
+        color: white;
     }
-    .banner{
+    .banner {
         max-width: 100%;
         height: auto;
     }
-    .content{
-        width:100%;
-        height:100%;
-        margin-bottom:5%;
-        margin-top:3%;
+
+    .content {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 5%;
+        margin-top: 3%;
     }
-    .content-banner{
-        width:100%;
-        height:100%;
-        margin-bottom:20px;
+
+    .content-banner {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 20px;
     }
-    .content-left{
-        width:100%;
+
+    .content-left {
+        width: 100%;
     }
-    .content-right{
-        width:100%;
+
+    .content-right {
+        width: 100%;
     }
-    #about{
-        width:100%;
+
+    #about {
+        width: 100%;
         margin: 0 auto;
     }
-    .list-item{
-        padding:0 35px;
-        display:inline-block;
+
+    .list-item {
+        padding: 0 35px;
+        display: inline-block;
     }
-    .list-item-portfolio{
-        display:inline-block;
+
+    .list-item-portfolio {
+        display: inline-block;
         width: 28%;
         padding: 0px 8px;
     }
-    .textarea{
-        width:98%;
+
+    .textarea {
+        width: 98%;
     }
-    .down{
-        margin-top:5%;
+
+    .down {
+        margin-top: 5%;
     }
-    .down2{
-        margin-top:12%;
+
+    .down2 {
+        margin-top: 5%;
     }
-    .form{
-        padding-left:0;
+
+    .form {
+        padding-left: 0;
     }
-    .input-text{
+
+    .input-text {
         width: 99%;
         height: 30px;
         margin-top: 10px;
@@ -68,16 +79,23 @@
     }
 
     /* footer element */
-    .footer{
-        margin-top: 171px;
+    .footer {
+        margin-top: 50px;
         background-color: black;
         display: inline-block;
         width: 100%;
         color: white;
     }
-    .footer-image{
-        margin:0 auto;
-        text-align:center;
+
+    .footer-image {
+        margin: 0 auto;
+        text-align: center;
     }
 
+}
+
+@media screen and (min-width: 1440px){
+    .list {
+        padding: 0 30px;
+    }
 }
